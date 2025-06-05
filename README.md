@@ -1,5 +1,5 @@
 # ESP32S3_Din_Module
-Single prototyping shield for Arduino UNO compatible board.
+ESP32S3 DIN Module.
 
 ## PCB manufacturing
 Schematics, gerbers and Bill of Materials (BOM) are available under *Electronic Design* directory. PCBs can be oredered on JLCPCB or any other PCB manufacturer. It is recommended to buy components from reliable sources like Mouse, Farnell, Digikey, TME. All symbols and footprints on the schematics was acquired from mouser page.
